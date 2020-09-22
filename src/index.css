@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("http://www.pptbackgrounds.org/uploads/nice-green-gradient-powerpoint-templates.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% ;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.boxed{
+  border: 5px solid black;
+  border-radius: 40px;
+  color: aliceblue;
+  width: 500px;
+  height: inherit;
+  font-weight: bolder;
+  background: url("https://i.pinimg.com/originals/7f/df/29/7fdf29d1bfc68cf80fce302c98298a1b.jpg");
 }
