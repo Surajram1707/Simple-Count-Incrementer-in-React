@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Count-Incrementer-in-React/static/css/main.6c0263ce.chunk.css",
+    "main.js": "/Simple-Count-Incrementer-in-React/static/js/main.75e023c6.chunk.js",
+    "main.js.map": "/Simple-Count-Incrementer-in-React/static/js/main.75e023c6.chunk.js.map",
+    "runtime-main.js": "/Simple-Count-Incrementer-in-React/static/js/runtime-main.ca62c768.js",
+    "runtime-main.js.map": "/Simple-Count-Incrementer-in-React/static/js/runtime-main.ca62c768.js.map",
+    "static/js/2.691a5a87.chunk.js": "/Simple-Count-Incrementer-in-React/static/js/2.691a5a87.chunk.js",
+    "static/js/2.691a5a87.chunk.js.map": "/Simple-Count-Incrementer-in-React/static/js/2.691a5a87.chunk.js.map",
+    "index.html": "/Simple-Count-Incrementer-in-React/index.html",
+    "precache-manifest.c7d78f3a247f99d4ca56630d816146eb.js": "/Simple-Count-Incrementer-in-React/precache-manifest.c7d78f3a247f99d4ca56630d816146eb.js",
+    "service-worker.js": "/Simple-Count-Incrementer-in-React/service-worker.js",
+    "static/css/main.6c0263ce.chunk.css.map": "/Simple-Count-Incrementer-in-React/static/css/main.6c0263ce.chunk.css.map",
+    "static/js/2.691a5a87.chunk.js.LICENSE.txt": "/Simple-Count-Incrementer-in-React/static/js/2.691a5a87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca62c768.js",
+    "static/js/2.691a5a87.chunk.js",
+    "static/css/main.6c0263ce.chunk.css",
+    "static/js/main.75e023c6.chunk.js"
+  ]
+}
